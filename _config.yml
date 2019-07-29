@@ -1,11 +1,11 @@
 # Site settings
-title: MaHaLo Blog
-SEOTitle: 盖啊盖的博客 | MaHaLo Blog
+title: GinSoda Blog
+SEOTitle: 琴酒苏打水的博客 | GinSoda Blog
 header-img: img/home-bg.jpg
 email: gzhiyong94@gmail.com
 description: "关于CS, NLP & More"
-keyword: "MaHaLo-G, 自然语言处理"
-url: "https://mahalo-g.github.io"              # your host, for absolute URL
+keyword: "GinSoda, 自然语言处理"
+url: "https://ginsoda.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
