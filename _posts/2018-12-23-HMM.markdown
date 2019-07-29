@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "统计学习方法 第十章 隐马尔科夫模型"
+date:   2018-12-23 01:06:00
+categories: Machine_Learning
+tags: HMM
+mathjax: true
+---
+
+* content
+{:toc}
+关于《统计学习方法》书中隐马尔科夫模型个人一些疑点的推导和见解。
+
+本文章需要配合书籍《统计学习方法》来看。用于解释书中一些没展开的公式内容推导。
+
+
+
+公式markdown还不会用，直接传图了，源文件在图下面
+![](https://raw.githubusercontent.com/MaHaLo-G/Storage_Public/master/HMM_1.jpg)
+![](https://raw.githubusercontent.com/MaHaLo-G/Storage_Public/master/HMM_2.jpg)
+
+### 源文件：
+需要用office365打开
+https://github.com/MaHaLo-G/Storage_Public/blob/master/HMM.docx?raw=true
+
+### 参考目录：
+《统计学习方法》
+
+https://www.cnblogs.com/nowgood/p/HMM.html
+
+https://blog.csdn.net/pipisorry/article/details/50722376

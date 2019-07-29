@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "统计学习方法 第十一章 条件随机场"
+date:   2018-12-23 01:10:00
+categories: Machine_Learning
+tags: CRF
+mathjax: true
+---
+
+* content
+{:toc}
+关于《统计学习方法》书中条件随机场个人一些疑点的推导和见解。
+
+本文章需要配合书籍《统计学习方法》来看。用于解释书中一些没展开的公式内容推导。
+
+
+
+公式markdown还不会用，直接传图了，源文件在图下面
+![](https://raw.githubusercontent.com/MaHaLo-G/Storage_Public/master/CRF_1.jpg)
+![](https://raw.githubusercontent.com/MaHaLo-G/Storage_Public/master/CRF_2.jpg)
+![](https://raw.githubusercontent.com/MaHaLo-G/Storage_Public/master/CRF_3.jpg)
+![](https://raw.githubusercontent.com/MaHaLo-G/Storage_Public/master/CRF_4.jpg)
+![](https://raw.githubusercontent.com/MaHaLo-G/Storage_Public/master/CRF_5.jpg)
+
+### 源文件：
+需要用office365打开
+https://github.com/MaHaLo-G/Storage_Public/blob/master/CRF.docx?raw=true
+
+### 参考目录：
+《统计学习方法》
