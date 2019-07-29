@@ -1,7 +1,7 @@
 # Site settings
 title: GinSoda Blog
 SEOTitle: 琴酒苏打水的博客 | GinSoda Blog
-header-img: img/home-bg.jpg
+header-img: img\home-bg.jpg
 email: gzhiyong94@gmail.com
 description: "关于CS, NLP & More"
 keyword: "GinSoda, 自然语言处理"
