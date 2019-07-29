@@ -1,11 +1,11 @@
 # Site settings
-title: GinSoda Blog
-SEOTitle: 琴酒苏打水的博客 | GinSoda Blog
-header-img: img\home-bg.jpg
-email: gzhiyong94@gmail.com
-description: "关于CS, NLP & More"
-keyword: "GinSoda, 自然语言处理"
-url: "https://ginsoda.github.io"              # your host, for absolute URL
+title: Hux Blog
+SEOTitle: 黄玄的博客 | Hux Blog
+header-img: img/home-bg.jpg
+email: huxpro@gmail.com
+description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
+keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,12 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     1973276813/home?wvr=5
-#zhihu_username:     
-github_username:    GinSoda
-#twitter_username:   huxpro
+weibo_username:     huxpro
+zhihu_username:     huxpro
+github_username:    huxpro
+twitter_username:   huxpro
 #facebook_username:  huxpro
-linkedin_username:  GaiZhiyong #firstname-lastname-idxxxx
+#linkedin_username:  firstname-lastname-idxxxx
 
 
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: mahalo-g
+disqus_username: hux
 
 # Netease settings
 netease_comment: false
@@ -68,18 +68,18 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-ba_track_id: 4a0b772a59d21c3efa1dbaa82b4a57a0
+# ba_track_id: [your track id]
 
 # Google Analytics
-# ga_track_id:            # Format: UA-xxxxxx-xx
-# ga_domain:
+ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "世之奇伟瑰怪非常之观，常在于险远，而人之所罕至焉"
-sidebar-avatar: img/avatar-gzy-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -96,16 +96,44 @@ service-worker: true
 
 
 # MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: true
+page-mathjax: false
 
 
 
 # Friends
 friends: [
-    # {
+    {
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
+        title: "乱序",
+        href: "http://mida.re/"
+    },{
+        title: "前端外刊评论",
+        href: "http://qianduan.guru/"
+    },{
+        title: "天镶的博客",
+        href: "http://lingyu.wang/"
+    },{
+        title: "Luke 的自留地",
+        href: "http://hmqk1995.github.io"
+    },{
+        title: "Ebn's Blog",
+        href: "http://ebnbin.com/"
+    },{
+        title: "SmdCn's Blog",
+        href: "http://blog.smdcn.net"
+    },{
+        title: "David's Game",
+        href: "https://www.ruoyaowu.com/"
+    },{
+        title: "DHong Say",
+        href: "http://dhong.co"
+    },{
+        title: "尹峰以为",
+        href: "http://ingf.github.io/"
+    },{
+        title: "解旻的博客",
+        href: "http://xieminis.me/"
+    }
 ]
-
-theme: jekyll-theme-cayman
