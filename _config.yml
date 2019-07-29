@@ -15,7 +15,7 @@ future: true
 RSS: false
 weibo_username:     1973276813/home?wvr=5
 #zhihu_username:     
-github_username:    MaHaLo-G
+github_username:    GinSoda
 #twitter_username:   huxpro
 #facebook_username:  huxpro
 linkedin_username:  GaiZhiyong #firstname-lastname-idxxxx
@@ -79,7 +79,7 @@ ba_track_id: 4a0b772a59d21c3efa1dbaa82b4a57a0
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "世之奇伟瑰怪非常之观，常在于险远，而人之所罕至焉"
-sidebar-avatar: img\avatar-gzy-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar-gzy-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
