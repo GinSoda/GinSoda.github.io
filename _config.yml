@@ -1,9 +1,9 @@
 # Site settings
-title: Gin&Soda Blog
-SEOTitle: Gin&Soda的博客 | Gin&Soda Blog
+title: 琴酒苏打水 Blog
+SEOTitle: 琴酒苏打水的博客 | Gin&Soda Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 | 与你一起发现更大的世界。"
+email: gzhiyong94@gmail.com
+description: "夜色已深 | 你要一杯酒吗还是苏打水？"
 keyword: "琴酒苏打水, Gin&Soda, NLP"
 url: "https://GinSoda.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -102,38 +102,8 @@ page-mathjax: false
 
 # Friends
 friends: [
-    {
+    #{
     #     title: "Su",
     #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
-    }
+    # },
 ]
