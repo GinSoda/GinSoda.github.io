@@ -59,7 +59,7 @@ tags:  two's_complement
 
 - 符号位参与 与、或、非和异或 运算
 
-- 符号位的左移右移：c++中负数不能左移，负数右移高位填充0
+- 符号位的左移右移：c++中负数不能左移，负数右移高位填充1; -1>>1还是-1，1>>1能得到0
 	
 ![](https://raw.githubusercontent.com/GinSoda/Storage_Public/master/2019-08-30-3.jpg)
 	
