@@ -59,7 +59,7 @@ dp\[i\]\[j\]代表只考虑前i个物品, 背包容量为j时, 可获得的最�
 
 ![](https://raw.githubusercontent.com/GinSoda/Storage_Public/master/2019-09-07-5.jpg)
 
-得到结果
+#### 得到结果
 
 ![](https://raw.githubusercontent.com/GinSoda/Storage_Public/master/2019-09-07-6.jpg)
 
