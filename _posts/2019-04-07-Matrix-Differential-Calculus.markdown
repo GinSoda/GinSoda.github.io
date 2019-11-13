@@ -37,7 +37,7 @@ mathjax: true
 https://github.com/GinSoda/Storage_Public/blob/master/Matrix%20differential.docx?raw=true
 
 ### 参考目录：
-http://10.3.200.202/cache/10/03/web.stanford.edu/8e61bd0b459595c3aec3c97fbdee9c74/gradient-notes.pdf
+http://web.stanford.edu/class/cs224n/readings/gradient-notes.pdf
 
 https://zhuanlan.zhihu.com/p/32368246
 
