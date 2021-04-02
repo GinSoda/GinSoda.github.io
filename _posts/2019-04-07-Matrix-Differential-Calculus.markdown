@@ -11,7 +11,7 @@ mathjax: true
 {:toc}
 ### 写在前面
 
-强烈建议优先看http://10.3.200.202/cache/10/03/web.stanford.edu/8e61bd0b459595c3aec3c97fbdee9c74/gradient-notes.pdf
+强烈建议优先看http://web.stanford.edu/class/cs224n/readings/gradient-notes.pdf
 
 看完后可以不看本博客，尽管我试图简化和条理化，博客内容仍然显得繁杂。
 
